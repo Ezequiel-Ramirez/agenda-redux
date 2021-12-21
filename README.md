@@ -1,5 +1,5 @@
-#Proyecto de práctica en useReducer utilizado en una simple agenda personal y manejando los estados.
-##Ir al proyecto en Vercel [Click aqui](https://agenda-redux-d1pes5umr-ezequiel-ramirez.vercel.app/).
+# Proyecto de práctica en useReducer utilizado en una simple agenda personal y manejando los estados.
+## Ir al proyecto en Vercel [Click aqui](https://agenda-redux-d1pes5umr-ezequiel-ramirez.vercel.app/).
 
 
 ![scrnli_21_12_2021 14-53-13](https://user-images.githubusercontent.com/78183135/146977266-0ec2e532-d991-4846-bbba-9a30dea2b83a.png)
